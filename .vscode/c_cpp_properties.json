@@ -3,13 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "D:/mingw64/include/**",
-                "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
-                "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
-                "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
-                "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
-                "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
-                "D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+                "${workspaceFolder}/**"
             ],
             "defines": [
                 "_DEBUG",
@@ -19,7 +13,7 @@
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "clang-x86",
-            "compilerPath": "D:\\mingw64\\bin\\gdb.exe"
+            "compilerPath": "E:/mingw64/bin/g++.exe"
         }
     ],
     "version": 4
