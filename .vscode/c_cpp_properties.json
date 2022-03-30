@@ -10,10 +10,14 @@
                 "UNICODE",
                 "_UNICODE"
             ],
+            "windowsSdkVersion": "8.1",
+            "compilerPath": "D:/mingw-w64/mingw64/bin/g++.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "clang-x86",
-            "compilerPath": "E:/mingw64/bin/g++.exe"
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false
+            }
         }
     ],
     "version": 4
