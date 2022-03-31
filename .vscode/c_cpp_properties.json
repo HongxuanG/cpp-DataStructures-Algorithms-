@@ -18,6 +18,7 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": false
             }
+
         }
     ],
     "version": 4
